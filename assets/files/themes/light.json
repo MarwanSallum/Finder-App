@@ -1,0 +1,12 @@
+{
+  "name" :"",
+  "version" : "",
+  "primary_color" : "72CAAF",
+  "secondary_color" : "534340",
+  "info_colo" : "ef0078",
+  "warning_color" : "ef0078",
+  "success_color" : "ef0078",
+  "danger_color" : "ef0078",
+  "def_v_space" : "16",
+  "def_h_space" : "16"
+}
